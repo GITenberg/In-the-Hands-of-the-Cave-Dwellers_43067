@@ -1,0 +1,39 @@
+_repo: In-the-Hands-of-the-Cave-Dwellers_43067
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43067-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_issued: '2013-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cruelty -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Apache Indians -- Juvenile fiction'
+- !lcsh 'Mexico -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+title: In the Hands of the Cave-Dwellers
+url: http://www.gutenberg.org/ebooks/43067
